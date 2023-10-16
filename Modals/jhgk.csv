@@ -1,0 +1,10 @@
+ProductCategpry,ProductCategpry.id,ProductCategpry.Category,ProductCategpry.SubCategory
+Ecommerse_app_backend_app.Modals.ProductCategpry,1,electronics,mobiles
+Ecommerse_app_backend_app.Modals.ProductCategpry,2,furniture,chairs
+Ecommerse_app_backend_app.Modals.ProductCategpry,3,furniture,tables
+Ecommerse_app_backend_app.Modals.ProductCategpry,4,electronics,laptops
+Ecommerse_app_backend_app.Modals.ProductCategpry,5,clothes,mens-tshirt
+Ecommerse_app_backend_app.Modals.ProductCategpry,6,clothes,mens-pants
+Ecommerse_app_backend_app.Modals.ProductCategpry,7,clothes,womens-tshirt
+Ecommerse_app_backend_app.Modals.ProductCategpry,8,clothes,womens-pants
+Ecommerse_app_backend_app.Modals.ProductCategpry,9,electronics,mouse
